@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ZALO-423732",
+    "sender": "Quản lý 2 LB",
+    "group_name": "Nhóm Kỹ Thuật DuLy",
+    "facility": "NCT",
+    "room": "Duckling",
+    "message": "Phòng Shiba hỏng khóa cửa phòng",
+    "created_at": "16:03:43 20/11/2026",
+    "status": "Chưa xử lý"
+  },
+  {
+    "id": "ZALO-234605",
+    "sender": "Lễ tân NCT",
+    "group_name": "Nhóm Vận Hành DuLy",
+    "facility": "NCT",
+    "room": "Doraemon",
+    "message": "Phòng Doraemon NCT bị rò nước điều hòa chảy xuống sàn",
+    "created_at": "16:00:34 20/11/2026",
+    "status": "Chưa xử lý"
+  }
+]
